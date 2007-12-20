@@ -10,6 +10,7 @@ Summary:        %{summary}
 Group:		Archiving/Backup
 Source:		http://metalab.unc.edu/pub/linux/system/backup/%{name}-%{version}.tar.bz2
 License:	LGPL
+BuildRoot:      %{_tmppath}/%{name}-buildroot
 
 %description
 Afio makes cpio-format archives. It deals somewhat gracefully with input
