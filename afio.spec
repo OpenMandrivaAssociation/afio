@@ -1,6 +1,6 @@
 %define name afio
 %define version 2.5
-%define release %mkrel 6
+%define release %mkrel 7
 %define summary Archiver program which writes cpio-format archives
 
 Name:           %{name}
