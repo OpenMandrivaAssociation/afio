@@ -1,6 +1,6 @@
 %define name afio
 %define version 2.5.1
-%define release 1
+%define release 2
 %define summary Archiver program which writes cpio-format archives
 
 Name:           %{name}
