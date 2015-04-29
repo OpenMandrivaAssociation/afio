@@ -9,6 +9,7 @@ Version:        %{version}
 Release:        %{release}
 Summary:        %{summary}
 Group:		Archiving/Backup
+Url:		http://members.chello.nl/~k.holtman/afio.html
 Source0:	http://members.chello.nl/~k.holtman/%{name}-%{version}.tgz
 License:	LGPL
 
