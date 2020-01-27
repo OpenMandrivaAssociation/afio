@@ -1,16 +1,12 @@
-%define debug_package	%{nil}
-%define name afio
-%define version 2.5.1
-%define release 2
-%define summary Archiver program which writes cpio-format archives
+#define debug_package	%{nil}
 
-Name:           %{name}
-Version:        %{version}
-Release:        %{release}
-Summary:        %{summary}
+Name:           afio
+Version:        2.5.2
+Release:        1
+Summary:        Archiver program which writes cpio format archives
 Group:		Archiving/Backup
 Url:		http://members.chello.nl/~k.holtman/afio.html
-Source0:	http://members.chello.nl/~k.holtman/%{name}-%{version}.tgz
+Source0:	https://fossies.org/linux/misc/afio-%{version}.tar.xz
 License:	LGPL
 
 %description
