@@ -5,7 +5,7 @@ Version:        2.5.2
 Release:        1
 Summary:        Archiver program which writes cpio format archives
 Group:		Archiving/Backup
-Url:		http://members.chello.nl/~k.holtman/afio.html
+Url:		https://members.chello.nl/~k.holtman/afio.html
 Source0:	https://fossies.org/linux/misc/afio-%{version}.tar.xz
 License:	LGPL
 
